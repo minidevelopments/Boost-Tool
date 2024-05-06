@@ -1,7 +1,7 @@
 # BitBoost - Sever Booster
 Tool that boosts servers automatically with nitro tokens...
 
-**Version 1: https://github.com/DaniEnsi/discord-server-boost-tool**
+
 
 ## Improvements
 - Improved general speed of token switching
@@ -14,9 +14,9 @@ Tool that boosts servers automatically with nitro tokens...
 # How to use
 1. Run ```setup.bat```
 2. Paste your tokens into ```tokens.txt```
-3. Run ```BitBoost.py```
+3. Run ```BitBoost.exe```
 
-If you have any issues create one or DM me on discord
+If you have any issues create one or DM me on discord (sfm247)
 
 ## Information 
 
